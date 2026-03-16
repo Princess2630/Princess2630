@@ -4,7 +4,7 @@ Cisco Certified Support Technician (CCST) - Cybersecurity with a strong foundati
 
 ---
 
-## 🔒Featured Projects & Labs:
+## Featured Projects & Labs:
 
 #### **Web-Application-Security-Audit (WebGoat)**
 Deployed a vulnerable web application environment using **Docker**. Performed automated and manual security testing using **OWASP ZAP** to identify and exploit **SQL Injection (SQLi)** and **Cross-Site Scripting (XSS)**. Documented remediation strategies, focusing on input validation and secure coding practices to mitigate web-based threats.
@@ -35,7 +35,7 @@ Completed foundational training in IT infrastructure, hardware troubleshooting, 
 
 ---
 
-## 👨‍💻 Technical Skills:
+##  Technical Skills:
 
 * **Security Tools:** Wireshark, OWASP ZAP, Nmap, Docker.
 * **Protocols:** TCP/IP, DNS, TLS/SSL, HTTP/S, UDP.
