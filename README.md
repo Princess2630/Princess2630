@@ -12,7 +12,7 @@ Deployed a vulnerable web application environment using **Docker**. Performed au
 
 #### **Network-Traffic-Analysis-Wireshark**
 Analyzed real-time network activity using **Wireshark** to monitor protocol behavior and data flow. Identified and scrutinized **DNS queries**, **TCP 3-way handshakes**, and **TLS encryption** layers. Conducted packet-level inspection to identify anomalies and establish baseline network security requirements.
-[View Project](https://github.com/Princess2630/Network-Analysis-Wireshark)
+[View Project](https://github.com/Princess2630/Network-Traffic-Analysis-Wireshark.git).
 
 ---
 
