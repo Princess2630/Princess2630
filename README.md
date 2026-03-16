@@ -23,6 +23,10 @@ Advanced study focusing on Network Defense, Cryptography, and Offensive Security
 
 #### **Cisco Certified Support Technician (CCST) – Cybersecurity**
 Validated expertise in security principles, network security, endpoint security, and incident response fundamentals.
+![View Certificate](https://www.credly.com/badges/bc7001ea-83d3-4ed3-96be-1e48c67208c8/public_url)
+
+#### **CCNA Introduction to Networks**
+![View Certificate](https://www.credly.com/badges/5e8141a2-a323-4fed-8c7c-a8514ce42cd7/public_url)
 
 #### **General IT Internship**
 Completed foundational training in IT infrastructure, hardware troubleshooting, and systems support, providing a broad understanding of enterprise IT operations.
