@@ -6,9 +6,9 @@ Cisco Certified Support Technician (CCST) - Cybersecurity with a strong foundati
 
 ## Featured Projects & Labs:
 
-#### **Web-Application-Security-Audit (WebGoat)**
+#### **WebGoat-Vulnerability-Analysis**
 Deployed a vulnerable web application environment using **Docker**. Performed automated and manual security testing using **OWASP ZAP** to identify and exploit **SQL Injection (SQLi)** and **Cross-Site Scripting (XSS)**. Documented remediation strategies, focusing on input validation and secure coding practices to mitigate web-based threats.
-[View Project](https://github.com/Princess2630/WebGoat-Analysis)
+[View Project]([https://github.com/Princess2630/WebGoat-Analysis](https://github.com/Princess2630/WebGoat-Vulnerability-Analysis.git))
 
 #### **Network-Traffic-Analysis-Wireshark**
 Analyzed real-time network activity using **Wireshark** to monitor protocol behavior and data flow. Identified and scrutinized **DNS queries**, **TCP 3-way handshakes**, and **TLS encryption** layers. Conducted packet-level inspection to identify anomalies and establish baseline network security requirements.
