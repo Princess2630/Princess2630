@@ -1,4 +1,4 @@
-# Hi, I'm Princess! 👋
+# Hi, It's Princess here! 👋
 
 Cisco Certified Support Technician (CCST) - Cybersecurity with a foundation in network defense, system troubleshooting, and vulnerability assessment. Currently pursuing an MSc in Cybersecurity to transition my analytical background into the security domain. Proven experience in general IT operations and hands-on laboratory environments, focused on implementing security best practices and continuous technical learning.
 
